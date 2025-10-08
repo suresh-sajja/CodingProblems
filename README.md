@@ -3,7 +3,7 @@ CodeRevisited
 
 Code samples, utils, example code for various problems
 
-[![Build Status](https://travis-ci.org/suresh-sajja/CodingProblems.svg?branch=master)](https://travis-ci.org/suresh-sajja/CodingProblems)
+
 ![Java CI with Gradle](https://github.com/suresh-sajja/CodingProblems/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![Java](https://img.shields.io/badge/Java-8+-orange.svg)
 ![Gradle](https://img.shields.io/badge/Gradle-8.5-blue.svg)
