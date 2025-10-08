@@ -5,6 +5,13 @@ Code samples, utils, example code for various problems
 
 [![Build Status](https://travis-ci.org/suresh-sajja/CodingProblems.svg?branch=master)](https://travis-ci.org/suresh-sajja/CodingProblems)
 ![Java CI with Gradle](https://github.com/suresh-sajja/CodingProblems/workflows/Java%20CI%20with%20Gradle/badge.svg)
+![Java](https://img.shields.io/badge/Java-8+-orange.svg)
+![Gradle](https://img.shields.io/badge/Gradle-8.5-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/suresh-sajja/CodingProblems?style=social)
+![GitHub forks](https://img.shields.io/github/forks/suresh-sajja/CodingProblems?style=social)
+![GitHub issues](https://img.shields.io/github/issues/suresh-sajja/CodingProblems)
+![GitHub last commit](https://img.shields.io/github/last-commit/suresh-sajja/CodingProblems)
 
 ## Build Instructions
 
@@ -26,7 +33,7 @@ To run only compilation:
 ./gradlew compileJava
 ```
 
-To run tests (if any):
+To run tests:
 ```bash
 ./gradlew test
 ```
@@ -44,6 +51,6 @@ The CI workflow:
 2. Sets up JDK 8
 3. Makes gradlew executable
 4. Compiles the project using Gradle
-5. Runs tests (if any exist)
+5. Runs tests
 
 You can view the build status and history in the [Actions tab](../../actions) of this repository.
